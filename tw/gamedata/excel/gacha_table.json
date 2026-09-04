@@ -12648,36 +12648,42 @@
             "endTime": 1788206399
         }
     ],
-    "linkageTenGachaItem": [
+    "linkageGachaItem": [
         {
             "itemId": "LINKAGE_TKT_GACHA_10_1701",
             "endTime": 1632340799,
-            "gachaPoolId": "LINKAGE_TC_7_2_1"
+            "gachaPoolId": "LINKAGE_TC_7_2_1",
+            "isTen": false
         },
         {
             "itemId": "LINKAGE_TKT_GACHA_10_3601",
             "endTime": 1703534399,
-            "gachaPoolId": "LINKAGE_TC_22_1_1"
+            "gachaPoolId": "LINKAGE_TC_22_1_1",
+            "isTen": false
         },
         {
             "itemId": "LINKAGE_TKT_GACHA_10_3602",
             "endTime": 1703534399,
-            "gachaPoolId": "LINKAGE_TC_22_1_1"
+            "gachaPoolId": "LINKAGE_TC_22_1_1",
+            "isTen": false
         },
         {
             "itemId": "LINKAGE_TKT_GACHA_10_4801",
             "endTime": 1735675199,
-            "gachaPoolId": "LINKAGE_TC_29_0_1"
+            "gachaPoolId": "LINKAGE_TC_29_0_1",
+            "isTen": false
         },
         {
             "itemId": "LINKAGE_TKT_GACHA_10_5401",
             "endTime": 1750103999,
-            "gachaPoolId": "LINKAGE_TC_32_0_4"
+            "gachaPoolId": "LINKAGE_TC_32_0_4",
+            "isTen": false
         },
         {
             "itemId": "LINKAGE_TKT_GACHA_10_6501",
             "endTime": 1776196799,
-            "gachaPoolId": "LINKAGE_TC_38_0_3"
+            "gachaPoolId": "LINKAGE_TC_38_0_3",
+            "isTen": false
         }
     ],
     "normalGachaItem": [
